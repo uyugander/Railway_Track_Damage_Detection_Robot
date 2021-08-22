@@ -1,4 +1,4 @@
-# Railway_Track_Damage_Detection_Robot
+# Railway Track Damage Detection Robot
 
 ### Introduction
    A 4 wheeler robot that can detect damages on the railway tracks like dents, cracks using Ultrasonic sensors, 
